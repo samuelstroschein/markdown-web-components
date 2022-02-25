@@ -9,11 +9,13 @@ https://shoelace.style/
 
 An alternative to MDX? 
 
+### YOU NEED TO OPEN THE MARKDOWN FILE IN A MARKDOWN READER AND DISABLE STRICT MODE
 This is what you get: 
+![twitter-markdown](https://user-images.githubusercontent.com/35429197/155697900-f97d36a2-ec24-4714-adb7-a2a22ccfc480.gif)
 
 
+----
 
-## YOU NEED TO OPEN THE MARKDOWN FILE IN A MARKDOWN READER AND DISABLE STRICT MODE
 
 <sl-button>Regular Button</sl-button>
 
